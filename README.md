@@ -2,7 +2,6 @@
 
 ## 仓库
 [![](https://img.shields.io/badge/-GitHub-24292f.svg?style=flat)](https://github.com/beixinti/pjntr/)
-[![](https://img.shields.io/badge/GitCode-国内镜像-fc5531.svg?style=flat)](https://gitcode.net/beixinti1/pjntr/)
 ![](https://img.shields.io/badge/内部GitLab-停止支持-grey.svg?style=flat)
 
 ## 下载
